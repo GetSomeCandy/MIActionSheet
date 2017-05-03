@@ -246,7 +246,6 @@
 				TargetAttributes = {
 					0A2378E01D6FDA0E0036C8FE = {
 						CreatedOnToolsVersion = 7.3.1;
-						DevelopmentTeam = 3SN9Y439JH;
 					};
 					0A2378F91D6FDA0E0036C8FE = {
 						CreatedOnToolsVersion = 7.3.1;
@@ -458,10 +457,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 3SN9Y439JH;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = ActionSheet/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.angle.ActionSheet;
+				PRODUCT_BUNDLE_IDENTIFIER = com.gyy.ActionSheet;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -470,10 +469,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 3SN9Y439JH;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = ActionSheet/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.angle.ActionSheet;
+				PRODUCT_BUNDLE_IDENTIFIER = com.gyy.ActionSheet;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
